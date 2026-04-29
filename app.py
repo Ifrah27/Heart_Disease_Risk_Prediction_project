@@ -133,7 +133,6 @@ model, scaler, expected_columns = load_model()
 st.markdown("""
 <div class="header-container">
     <div class="main-title">Heart Disease Risk Assessment</div>
-    <div class="sub-title">Clinical diagnostic tool based on K-Nearest Neighbors analysis</div>
 </div>
 """, unsafe_allow_html=True)
 
